@@ -12,18 +12,12 @@ website:
     search: true
     collapse-level: 2
     contents:
-      - section: "Course information"
+      - section: "Final materials"
         contents:
-          - href: Syllabus.qmd
-            text: Overview
-          - href: instructional_team.qmd
-            text: Instructional Team
-          - href: course_schedule.qmd
-            text: Course Schedule
-      - section: "Weekly materials"
-        contents:
+          - href: https://dacss.github.io/601_Fall_2022/
+            text: Fall 2022 posts
           - href: index.qmd
-            text: Posts
+            text: final Posts
     
   favicon: images/DACSS_Round_Network.png
   navbar:
