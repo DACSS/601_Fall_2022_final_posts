@@ -1,0 +1,14 @@
+{
+  "hash": "f99d9b803e28da591914e1b31020bf4c",
+  "result": {
+    "markdown": "---\ntitle: \"DACSS 601: Data Science Fundamentals\"\nsubtitle: \"Fall-2022\"\nlisting:\n  contents: posts\n  sort: \"date desc\"\n  type: table\n  categories: true\n  fields: [date, title, author]\n  table-hover: true\npage-layout: full\n---\n\n::: {.cell}\n\n:::\n\n\nThe blog posts here are contributed by students enrolled in DACSS 601, Fundamentals of Data Science. The course provides students with an introduction to R and the tidyverse, scientific publishing, and collaboration through GitHub, building a foundation for future coursework. Students also are introduced to general data management and data wrangling skills, with an emphasis on best practice workflows and tidy data management.\n",
+    "supporting": [],
+    "filters": [
+      "rmarkdown/pagebreak.lua"
+    ],
+    "includes": {},
+    "engineDependencies": {},
+    "preserve": {},
+    "postProcess": true
+  }
+}

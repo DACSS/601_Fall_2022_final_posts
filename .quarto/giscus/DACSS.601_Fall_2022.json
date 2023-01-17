@@ -1,0 +1,35 @@
+{
+  "repositoryId": "R_kgDOH564Gw",
+  "categories": [
+    {
+      "emoji": "📣",
+      "id": "DIC_kwDOH564G84CRdBB",
+      "name": "Announcements"
+    },
+    {
+      "emoji": "💬",
+      "id": "DIC_kwDOH564G84CRdBC",
+      "name": "General"
+    },
+    {
+      "emoji": "💡",
+      "id": "DIC_kwDOH564G84CRdBE",
+      "name": "Ideas"
+    },
+    {
+      "emoji": "🗳️",
+      "id": "DIC_kwDOH564G84CRdBG",
+      "name": "Polls"
+    },
+    {
+      "emoji": "🙏",
+      "id": "DIC_kwDOH564G84CRdBD",
+      "name": "Q&A"
+    },
+    {
+      "emoji": "🙌",
+      "id": "DIC_kwDOH564G84CRdBF",
+      "name": "Show and tell"
+    }
+  ]
+}
